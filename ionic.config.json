@@ -1,0 +1,7 @@
+{
+  "name": "demoscanner",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
